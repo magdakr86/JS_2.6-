@@ -1,0 +1,29 @@
+body {
+  font-size: 34px;
+  background: #E1C7C8;
+  color: #A29B9D;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+span {
+  display: block;
+}
+
+.btn {
+  margin: 10px 20px;
+  background: #89BCC0;
+  width: 130px;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.timer {
+  margin: 30px 0;
+}
